@@ -5,7 +5,7 @@
 **Discord:** alexandra-su  
 **Location:** Minsk, Belarus
 ## About myself
-I'm a UI/UX Designer with a big intention to know Frontend Development. I've been working as a freelance designer for one year and I've decided to learn basics of the Frontend development. I believe that it will give me value. I'm attentive to the details, curious, empathic. I improve my knowledge by reading articles, watching various videos and practice. 
+I'm a UI/UX Designer with a strong intention to know Frontend Development. I've been working as a freelance designer for one year and I've decided to learn basics of the Frontend development. I believe that it will give me a value. I'm attentive to the details, curious, empathic. I improve my knowledge by reading articles, watching various videos and practice. 
 ## Skills
 * HTML  
 * CSS  
@@ -16,7 +16,7 @@ I'm a UI/UX Designer with a big intention to know Frontend Development. I've bee
 *It will be added soon*
 ## Work experience
 ### UI/UX Designer
-2020 - current
+2021 - current
 ## Education
 **University:**
 Polessky State University (Marketing)
