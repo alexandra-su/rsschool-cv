@@ -61,8 +61,15 @@ body {
     justify-content: space-between;
 }
 
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    column-gap: 4px; 
+}
+
 .section {
-    width: 50%;
+    width: 48%;
     padding: 10px;
     padding-bottom: 20px;
     border-bottom: 2px solid #9FC7BF;
